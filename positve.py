@@ -1,5 +1,5 @@
-n=input("Enter the number")
+n=input()
 if(n>=0):
-   print(n,"is Positive")
+   print("Positive")
 else:
-   print(n,"is Negative")
+   print("Negative")
